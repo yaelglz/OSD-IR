@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "0ff4e02f59472ef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a5d7d1e43a1835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e09ba074810077a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NODOS/NODO 3/Tema 1. Razonamiento lógico-matemático.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8a44a608923a247",
+    "type": "split",
+    "children": [
+      {
+        "id": "281afd087a52aced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8980a43421acf1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e6daacd064bf352",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "567c749d36f6c61a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2a00a35b6d6364b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4f12337ac92c19a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776fc8d52bc38836",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NODOS/NODO 3/Tema 1. Razonamiento lógico-matemático.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bae743bf04a2a97e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NODOS/NODO 3/Tema 1. Razonamiento lógico-matemático.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d8b45a494f843c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d1a47e6d0dd5118",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NODOS/NODO 3/Tema 1. Razonamiento lógico-matemático.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e09ba074810077a1",
+  "lastOpenFiles": [
+    "Pasted image 20240125212750.png",
+    "Pasted image 20240125211523.png",
+    "NODOS/NODO 3/Tema 3. Pólya cómo resolver problemas.md",
+    "NODOS/NODO 3/NODO 3.md",
+    "NODOS/NODO 3/Tema 2. Sucesiones numéricas y pensamiento espacial.md",
+    "NODOS/NODO 3/Tema 1. Razonamiento lógico-matemático.md",
+    "NODOS/NODO 3/Tema 1. Raz.md",
+    "NODOS/NODO 1/NODO 1.md",
+    "NODOS/NODO 2/NODO 2.md",
+    "NODOS/NODO 2/Tema 2. Estrategias de lectura.md",
+    "NODOS/NODO 3",
+    "NODOS/NODO 2/Tema 1. Estrategias para la gestión de la información.md",
+    "NODOS/NODO 2/Tema 3. Estrategias para la redacción de textos.md",
+    "Pasted image 20240121234444.png",
+    "Pasted image 20240121234409.png",
+    "Pasted image 20240121234350.png",
+    "Pasted image 20240121234217.png",
+    "Pasted image 20240121234153.png",
+    "Pasted image 20240121001626.png",
+    "Pasted image 20240121001604.png",
+    "NODOS/NODO 1/Tema 2 - Aprendizaje estratégico.md",
+    "NODOS/NODO 2/Tema 1 - Qué son las habilidades blandas.md",
+    "NODOS/NODO 1/Tema 3 - Cultura digital.md",
+    "NODOS/NODO 2",
+    "NODOS/NODO 1/Tema 1 - Habilidades blandas.md",
+    "NODOS/NODO 1/Pasted image 20240110190415.png",
+    "NODOS/NODO 1/Pasted image 20240109224315.png",
+    "Sin título.canvas",
+    "NODOS/NODO 1",
+    "NODOS",
+    "Tema 1.md"
+  ]
+}
